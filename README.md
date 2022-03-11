@@ -26,17 +26,36 @@ We have saved some consumption data in a .csv, but… it would be very nice if y
 
 Show us your abilities and make yourself worth the amount of money you'd like to get paid. You have 72 hours to turn the challenge in starting right now! 💸
 
-## Important 🚧
+## What to do?
 
+##### Exploratory data analysis
+
+- Get to know the domain
+- Explore your data
 - Clean your data
-- Take a look and find connection between data
-- Find the story that the data is telling you (storytelling)
-- Can you make any kind of prediction or regression/classification?
-- What metrics are you obtaining?¿Qué métricas obtienes?
+- Take a look and find connections between data
+
+##### Enrich your dataset
+
+- Add value: obtain related data by web scraping or with APIs.
+
+##### Database
+
+- Load the processed information into a database
+
+##### Predictions
+
+- Can you make any kind of prediction: regression and/or classification?
+
+##### Visualization
+
+- Plot your data in a meaningful way
+
+##### Storytelling
+
+- What metrics are you obtaining?
 - Explain your conclusions
-- Obtain related data by web scraping or with APIS.
-- Enrich your dataset
-- Put everything into a database
+- Shape your new data and conclusions in such a way that is appealing to the listener and tells a story
 
 To deliver your proposal make a fork of the repo and when you are done make a pull request. 🤯
 
@@ -49,7 +68,7 @@ To deliver your proposal make a fork of the repo and when you are done make a pu
     <li>Push the changes to your fork</li>
     <li>From your fork, click on Contribute</li>
     <li>Open pull request</li>
-    <li>Name it [Name FamilyName] Tech challenge</li>
+    <li>Name it:  [Name FamilyName] Tech challenge</li>
 </ol>
 </details>
 
