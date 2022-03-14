@@ -43,15 +43,15 @@ Show us your abilities and make yourself worth the amount of money you'd like to
 
 - Load the processed information into a database
 
-##### Predictions
+#### Predictions
 
 - Can you make any kind of prediction: regression and/or classification?
 
-##### Visualization
+#### Visualization
 
 - Plot your data in a meaningful way
 
-##### Storytelling
+#### Storytelling
 
 - What metrics are you obtaining?
 - Explain your conclusions
