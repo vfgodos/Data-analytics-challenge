@@ -26,20 +26,20 @@ We have saved some consumption data in a .csv, but… it would be very nice if y
 
 Show us your abilities and make yourself worth the amount of money you'd like to get paid. You have 72 hours to turn the challenge in starting right now! 💸
 
-## What to do?
+## What to do?
 
-##### Exploratory data analysis
+#### Exploratory data analysis
 
 - Get to know the domain
 - Explore your data
 - Clean your data
 - Take a look and find connections between data
 
-##### Enrich your dataset
+#### Enrich your dataset
 
 - Add value: obtain related data by web scraping or with APIs.
 
-##### Database
+#### Database
 
 - Load the processed information into a database
 
