@@ -28,20 +28,14 @@ Show us your abilities and make yourself worth the amount of money you'd like to
 
 ## What to do?
 
+### You should aim for:
+
 #### Exploratory data analysis
 
 - Get to know the domain
 - Explore your data
 - Clean your data
 - Take a look and find connections between data
-
-#### Enrich your dataset
-
-- Add value: obtain related data by web scraping or with APIs.
-
-#### Database
-
-- Load the processed information into a database
 
 #### Visualization
 
@@ -57,6 +51,21 @@ Show us your abilities and make yourself worth the amount of money you'd like to
 - What metrics are you obtaining?
 - Explain your conclusions
 - Shape your new data and conclusions in such a way that is appealing to the listener and tells a story
+
+
+### Extra:
+#### Enrich your dataset
+
+- Add value: obtain related data by web scraping or with APIs.
+
+#### Database
+
+- Load the processed information into a database
+
+<br>
+
+
+## Submission
 
 To deliver your proposal make a fork of the repo and when you are done make a pull request. 🤯
 
