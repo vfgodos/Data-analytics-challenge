@@ -24,7 +24,7 @@ Tricked-out cars use gas with a high cetane index, like unleaded 98 petrol in or
 Now it is your turn: can you help us find the best combustible?
 We have saved some consumption data in a .csv, but… it would be very nice if you could add some more data. You can find data in the repo :-)
 
-Show us your abilities and make yourself worth the amount of money you'd like to get paid. You have 72 hours to turn the challenge in starting right now! 💸
+Show us your abilities and make yourself worth the amount of money you'd like to get paid. You have **3 hours** to turn the challenge in starting right now! 💸
 
 ## What to do?
 
@@ -43,13 +43,14 @@ Show us your abilities and make yourself worth the amount of money you'd like to
 
 - Load the processed information into a database
 
-#### Predictions
-
-- Can you make any kind of prediction: regression and/or classification?
-
 #### Visualization
 
 - Plot your data in a meaningful way
+
+#### Predictions
+
+- Do you have any hypothesis?
+- Can you make any kind of prediction: regression and/or classification?
 
 #### Storytelling
 
